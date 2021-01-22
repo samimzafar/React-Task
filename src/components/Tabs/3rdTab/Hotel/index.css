@@ -1,0 +1,40 @@
+/* disable default outline on focused items */
+/* add custom outline on focused items */
+.rec-carousel-item{
+
+ 
+    width: 100%;
+}
+.rec-carousel-item:hover{
+    background-color: #070741;
+    cursor: pointer;
+    -webkit-transition: background-color 1s ease-out;
+    -moz-transition: background-color 1s ease-out;
+    -o-transition: background-color 1s ease-out;
+    transition: background-color 1s ease-out;
+    border-radius: 5px;
+
+}
+
+
+.rec.rec-arrow {
+    border-radius: 50%;
+    background-color: #070741;
+    color: white;
+
+}
+
+/* round buttons on hover */
+
+/* hide disabled buttons */
+.rec.rec-arrow:disabled {
+    visibility: hidden;
+}
+/* .rec-dot{
+    background-color: #FF4A57;
+} */
+button.rec-dot{
+    background-color: #070741;
+    box-shadow: 0 0 1px 3px #070741;
+  }
+  

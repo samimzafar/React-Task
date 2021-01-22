@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CamimSite/static/css/main.55f117f8.chunk.css",
+    "main.js": "/CamimSite/static/js/main.e013257b.chunk.js",
+    "main.js.map": "/CamimSite/static/js/main.e013257b.chunk.js.map",
+    "runtime-main.js": "/CamimSite/static/js/runtime-main.d024ffa6.js",
+    "runtime-main.js.map": "/CamimSite/static/js/runtime-main.d024ffa6.js.map",
+    "static/js/2.09de5bec.chunk.js": "/CamimSite/static/js/2.09de5bec.chunk.js",
+    "static/js/2.09de5bec.chunk.js.map": "/CamimSite/static/js/2.09de5bec.chunk.js.map",
+    "index.html": "/CamimSite/index.html",
+    "static/css/main.55f117f8.chunk.css.map": "/CamimSite/static/css/main.55f117f8.chunk.css.map",
+    "static/js/2.09de5bec.chunk.js.LICENSE.txt": "/CamimSite/static/js/2.09de5bec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d024ffa6.js",
+    "static/js/2.09de5bec.chunk.js",
+    "static/css/main.55f117f8.chunk.css",
+    "static/js/main.e013257b.chunk.js"
+  ]
+}
